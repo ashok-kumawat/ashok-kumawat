@@ -39,5 +39,5 @@ Rajasthan Technical University
 
 ## 📫 Connect With Me
 
-* LinkedIn: [Ashok Kumawat](linkedin.com/in/ashokmarwal)
+* LinkedIn: linkedin.com/in/ashokmarwal
 * GitHub: [ashok-kumawat](https://github.com/ashok-kumawat)
